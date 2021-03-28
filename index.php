@@ -7,7 +7,7 @@
       <link rel="icon" href="favicon.ico" type="image/x-icon" />
       <link rel="preconnect" href="https://fonts.gstatic.com">
       <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
-      <link rel="stylesheet" href="quiz.css">
+      <link rel="stylesheet" href="style.css">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta property="og:image" content="quizog.jpg" />
       <meta charset="UTF-8">
